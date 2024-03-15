@@ -8,7 +8,6 @@ I'm studied at University of Phayao, Faculty of Engineering, software engineer
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [kj.kaseamsankeawjeen@gmail.com](mailto:kj.kaseamsankeawjeen@gmail.com)
-* 🧠  I'm learning Django
 
 ### Skills
 
