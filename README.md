@@ -4,7 +4,7 @@ Hi My name is Kaseamsan Keawjeen
 sophomore
 ---------
 
-<p align="center">
+<p>
 	<a href="https://github.com/4Kasaje4">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3CF7B0&random=false&width=435&lines=Hi+there.;I'm+Software+engineer.;Back-end+developer.;Go+to+Full-Stack." alt="Typing SVG" />
 	</a>
